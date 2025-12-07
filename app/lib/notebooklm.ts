@@ -397,7 +397,7 @@ async function getAccessToken(cookies?: {
         console.error("Error getting access token:", error);
         throw new Error(
             "No access token available. Please set up authentication:\n" +
-                "1. Run: gcloud auth application-default login (make sure you're logged in as joseph.ngo72@gmail.com)\n" +
+                "1. Run: gcloud auth application-default login (make sure you're logged in with your Google account)\n" +
                 "2. Or set GOOGLE_CLOUD_ACCESS_TOKEN=$(gcloud auth application-default print-access-token)\n" +
                 "3. Or set GOOGLE_APPLICATION_CREDENTIALS (path to service account JSON file), OR\n" +
                 "4. Or set GOOGLE_SERVICE_ACCOUNT_JSON (service account JSON as string)"

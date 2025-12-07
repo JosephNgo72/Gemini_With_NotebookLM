@@ -30,7 +30,7 @@ This guide covers all the steps needed to set up Google OAuth for your applicati
 
 5. **Add Test Users** (IMPORTANT for testing)
    - Under "Test users", click "ADD USERS"
-   - Add your Google account email (e.g., `joseph.ngo72@gmail.com`)
+   - Add your Google account email (e.g., `your-email@gmail.com`)
    - Click "ADD"
    - Click "SAVE AND CONTINUE"
 
