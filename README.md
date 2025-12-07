@@ -8,7 +8,7 @@ Watch a live demonstration of the application in action:
 
 [![Demo Video](https://img.youtube.com/vi/XoDDa44GfhE/maxresdefault.jpg)](https://www.youtube.com/watch?v=XoDDa44GfhE)
 
-[Watch on YouTube](https://www.youtube.com/watch?v=XoDDa44GfhE)
+👉 [Watch the full demo on YouTube](https://www.youtube.com/watch?v=XoDDa44GfhE)
 
 ## 🎯 Project Overview
 
