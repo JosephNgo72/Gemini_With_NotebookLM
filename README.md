@@ -2,6 +2,14 @@
 
 A full-stack Next.js application that integrates Google's NotebookLM API with Gemini AI to create an intelligent chat interface for managing and querying NotebookLM notebooks. This application allows users to authenticate with Google Cloud, manage their NotebookLM notebooks, add sources (YouTube videos, Google Drive documents, or file uploads), and have contextual conversations with an AI assistant powered by Gemini 2.5 Flash.
 
+## 🎥 Demo Video
+
+Watch a live demonstration of the application in action:
+
+[![Demo Video](https://img.youtube.com/vi/XoDDa44GfhE/maxresdefault.jpg)](https://www.youtube.com/watch?v=XoDDa44GfhE)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=XoDDa44GfhE)
+
 ## 🎯 Project Overview
 
 This project demonstrates a production-ready integration between Google's NotebookLM (Discovery Engine) API and Google's Gemini AI. It provides a modern web interface for users to:
